@@ -1,9 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lukeluyd/lukeluyd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Hello!
+I'm Yadong Lu, a graduate student in Master of Science in Information System program at San Diego State University. My specialty is focused on Big Data Analytics and Natural Language Processing. I am graduating in Spring 2020 and actively looking for part-time job opportunities as a data scientist/data analyst. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
