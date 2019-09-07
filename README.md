@@ -2,14 +2,12 @@
 I'm Yadong Lu, a graduate student in Master of Science in Information System program at San Diego State University. My specialty is focused on Big Data Analytics and Natural Language Processing. I am graduating in Spring 2020 and actively looking for part-time job opportunities as a data scientist/data analyst. 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are courses I have taken and courses I am currently taking in Fall 2019.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Big Data Science and Analytics Platforms Business Analytics Business Data Communication Decision Support System Electronic Business and Big Data Infrastructures Enterprise Data Management Finance & Management Accounting Operation & Supply Chain Management Python Scripting Statistical Analysis
 
 - Bulleted
 - List
