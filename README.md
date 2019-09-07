@@ -6,14 +6,22 @@ Below are courses I have taken and courses I am currently taking in Fall 2019.
 
 *Big Data Science and Analytics Platforms* 
 
-*Business Analytics* 
+######*Business Analytics* 
 
 *Business Data Communication*
+
 *Electronic Business and Big Data Infrastructures*
+
 *Enterprise Data Management*
+
 *Finance & Management Accounting*
+
 *Marketing*
+
 *Operation & Supply Chain Management*
+
 *Project Planning and Development*
+
 *Python Scripting*
+
 *Statistical Analysis*
