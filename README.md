@@ -4,16 +4,14 @@ I'm Yadong Lu, a graduate student in Master of Science in Information System pro
 
 Below are courses I have taken and courses I am currently taking in Fall 2019.
 
-```markdown
-
-# Big Data Science and Analytics Platforms 
-# Business Analytics 
-# Business Data Communication 
-# Electronic Business and Big Data Infrastructures 
-# Enterprise Data Management 
-# Finance & Management Accounting 
-# Marketing
-# Operation & Supply Chain Management 
-# Project Planning and Development
-# Python Scripting 
-# Statistical Analysis
+*Big Data Science and Analytics Platforms*
+*Business Analytics* 
+*Business Data Communication*
+*Electronic Business and Big Data Infrastructures*
+*Enterprise Data Management*
+*Finance & Management Accounting*
+*Marketing*
+*Operation & Supply Chain Management*
+*Project Planning and Development*
+*Python Scripting*
+*Statistical Analysis*
