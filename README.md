@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Hello!
 I'm Yadong Lu, a graduate student in Master of Science in Information System program at San Diego State University. My specialty is focused on Big Data Analytics and Natural Language Processing. I am graduating in Spring 2020 and actively looking for part-time job opportunities as a data scientist/data analyst. 
 
